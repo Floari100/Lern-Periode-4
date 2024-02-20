@@ -4,10 +4,10 @@ Max Muster
 20.2 bis 2.4.2024
 
 Grob-Planung
-Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
-Neu: Was möchten Sie Neues lernen?
-Was wäre ein geeignetes Projekt für diese LP4?
+Bei den 2 Programmiernoten stehe ich sehr gut, dort habe ich eine 5.5 und eine 6 geschrieben aber bei den Datenbanken sieht es weniger gut aus mit einer 4.5. Daher sehe ich meine Stärken im Programme programmieren.
+Ich habe mir vorgenommen meine Zeit besser einzuplanen und das konnte ich eigentlich erfolgreich meistern, weiter habe ich mir vorgenommen mehr kleine programme zu schreiben und mir keine grosse Projekte vorgeben, das hat auch gut geklappt.
+Was möchte ich lernen? Ich möchte lernen komplexere Algorithmen zu verstehen und diese auch zu programmieren.
+Ein geeignetes Projekt für diese LP wäre für mich 
 20.2.2024
 ✍️ Heute habe ich... (50-100 Wörter)
 
